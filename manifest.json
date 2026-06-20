@@ -1,0 +1,30 @@
+{
+  "artist": "Open Source Test",
+  "image": "https://raw.githubusercontent.com/outcast1000/viboplr-oss-music-demo/main/audio/aurora.mp3",
+  "tracks": [
+    {
+      "title": "Aurora",
+      "url": "https://raw.githubusercontent.com/outcast1000/viboplr-oss-music-demo/main/audio/aurora.mp3",
+      "album": "Manifest Demo",
+      "duration_secs": 8,
+      "track": 1,
+      "tags": ["test", "ambient"]
+    },
+    {
+      "title": "Beacon",
+      "url": "https://raw.githubusercontent.com/outcast1000/viboplr-oss-music-demo/main/audio/beacon.mp3",
+      "album": "Manifest Demo",
+      "duration_secs": 10,
+      "track": 2,
+      "tags": ["test", "drone"]
+    },
+    {
+      "title": "Cinder",
+      "url": "https://raw.githubusercontent.com/outcast1000/viboplr-oss-music-demo/main/audio/cinder.mp3",
+      "album": "Manifest Demo",
+      "duration_secs": 12,
+      "track": 3,
+      "tags": ["test", "tone"]
+    }
+  ]
+}
