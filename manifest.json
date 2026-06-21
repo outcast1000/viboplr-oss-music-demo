@@ -26,6 +26,22 @@
       "duration_secs": 12,
       "track": 3,
       "tags": ["test", "tone"]
+    },
+    {
+      "title": "Positive Tension",
+      "url": "https://raw.githubusercontent.com/outcast1000/viboplr-oss-music-demo/main/audio/bloc-party-positive-tension.m4a",
+      "artist": "Bloc Party",
+      "album": "Silent Alarm",
+      "duration_secs": 235.945,
+      "format": "m4a"
+    },
+    {
+      "title": "Paravasi",
+      "url": "https://raw.githubusercontent.com/outcast1000/viboplr-oss-music-demo/main/audio/nikos-papazoglou-paravasi.m4a",
+      "artist": "Nikos Papazoglou",
+      "album": "Acharnis Tou Aristophane Pou Gyrise Apo Ta Thymarakia (Tragoudia Gia Neous Kantadorous)",
+      "duration_secs": 185.859,
+      "format": "m4a"
     }
   ]
 }
